@@ -26,7 +26,7 @@ Below is a high-level diagram of the Computer Use Agent:
 ## Getting Started
 1. Clone the repository:
 	```powershell
-	git clone <repo-url>
+	git clone https://github.com/kirpalsingh225/ComputerUseAgent
 	cd ComputerUseAgent
 	```
 2. Install dependencies:
